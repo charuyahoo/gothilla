@@ -1,5 +1,2 @@
 first cut
-second
-third
-fourth
-fifth
+sixth
